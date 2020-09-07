@@ -1,0 +1,11 @@
+﻿  Source.cpp
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(384): warning C4101: temp2: неиспользованная локальная переменная
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(407): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(446): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(447): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(224): warning C4715: list::printList: значение возвращается не при всех путях выполнения
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(274): warning C4715: list::basedOnNameOutput: значение возвращается не при всех путях выполнения
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(293): warning C4715: list::basedOnBreedOutput: значение возвращается не при всех путях выполнения
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(312): warning C4715: list::basedOnAgeOutput: значение возвращается не при всех путях выполнения
+c:\users\sbulyga\source\repos\coursework\coursework\source.cpp(331): warning C4715: list::basedOnPlaceOutput: значение возвращается не при всех путях выполнения
+  CourseWork.vcxproj -> C:\Users\sbulyga\source\repos\CourseWork\Debug\project.exe
